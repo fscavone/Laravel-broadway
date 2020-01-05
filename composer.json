@@ -1,5 +1,5 @@
 {
-  "name": "fscavone/laravel-broadway",
+  "name": "nwidart/laravel-broadway",
   "description": "A Laravel adapter for the Broadway ES/CQRS package.",
   "license": "MIT",
   "keywords": [
